@@ -1,4 +1,4 @@
-DEPRECATED: use https://github.com/cheminfo-js/array-xy/tree/master/packages/array-xy-unique-x instead
+# DEPRECATED: use https://github.com/cheminfo-js/array-xy/tree/master/packages/array-xy-unique-x instead
 
 
 # arrayxy-uniquex
